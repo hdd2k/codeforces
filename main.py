@@ -1,1 +1,2 @@
-import watermelon.main as w
+
+print("hello world")
