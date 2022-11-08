@@ -1,5 +1,4 @@
 # codeforces
-<<<<<<< HEAD
 
 
 ## Pre-requirements
@@ -13,5 +12,3 @@
   - [X] Add VSCode profile for running base main.py
   - [X] argparse fuzzy matches fzf for running (fetch all dirs)
   - [X] introduce runner base class that runs "main.py" with stdin "input.in"
-=======
->>>>>>> parent of c81be1d (Add vscode debug config for base main class)
